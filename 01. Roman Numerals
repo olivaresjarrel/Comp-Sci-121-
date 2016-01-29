@@ -3,5 +3,21 @@
 * ------------------------------------------------------------------------- */
 
 /**
-* A short program to convert integers given into its Roman Numeral equivalent
+* A short program to convert integers given into its Roman Numeral equivalent.
+* https://github.com/2016-spring-csuf-benblazak-cpsc-121/assignment-01
 */
+
+//Roman Numerals:
+//  1    = I
+//  5    = V
+//  10   = X
+//  50   = L
+//  100  = C
+//  500  = D
+//  1000 = M
+ 
+//Prompt user for a number.
+
+//Convert number in Roman Numeral
+
+//Prompt user if they would like to convert another integer. (Y/N)
