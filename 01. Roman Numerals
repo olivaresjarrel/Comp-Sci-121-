@@ -4,20 +4,53 @@
 
 /**
 * A short program to convert integers given into its Roman Numeral equivalent.
-* https://github.com/2016-spring-csuf-benblazak-cpsc-121/assignment-01
+*https://github.com/2016-spring-csuf-benblazak-cpsc-121/assignment-01
 */
 
-//Roman Numerals:
-//  1    = I
-//  5    = V
-//  10   = X
-//  50   = L
-//  100  = C
-//  500  = D
-//  1000 = M
- 
-//Prompt user for a number.
+/*Roman Numerals:
+*  1    = I
+*  5    = V
+*  10   = X
+*  50   = L
+*  100  = C
+*  500  = D
+*  1000 = M
+-------------------------------------------------------------------------------*/
 
-//Convert number in Roman Numeral
+#include <iostream>
+using std::cout;
+using std::cin;
 
-//Prompt user if they would like to convert another integer. (Y/N)
+int main()
+{
+
+	int SENT = 0;
+	int NUM;
+	int RESPONSE;
+
+	do
+		{
+
+			//Prompt user for a number.
+			cout << "Please enter an integer:  " << "\n";
+			cin >> NUM;
+
+
+
+			//Convert number in Roman Numeral
+
+
+
+
+			//Prompt user if they would like to convert another integer. (Y/N)
+			cout << "Would you like to convert another integer? (Y/N) " << "\n";
+			cin >> RESPONSE >> "\n";
+
+			if (RESPONSE == N || n)
+			SENT == 1;
+
+		} while (SENT == 0)
+
+		return 0;
+
+}
