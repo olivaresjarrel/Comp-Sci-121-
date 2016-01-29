@@ -1,0 +1,7 @@
+/* ----------------------------------------------------------------------------
+* Copyright &copy; 2016 Jarrel Olivares <olivares.jarrel@csu.fullerton.edu>
+* ------------------------------------------------------------------------- */
+
+/**
+* A short program to convert integers given into its Roman Numeral equivalent
+*/
